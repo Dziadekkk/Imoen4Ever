@@ -178,6 +178,6 @@
 @211  = ~[Imoen]Hojność, o tak! Rozumiesz, że On miał na myśli mnie? Jestem bardzo hojną osobą – dzisiaj. A teraz chodźmy, <CHARNAME> – muszę znowu napełnić *nasze* kieszenie.~
 
 /* continuing bdimoenj_additions.d */
-@500 = ~Och, ty też? Naprawdę dziwnie jest widzieć rzeczy, które ludzie noszą przy sobie, prawda? Ale czekaj, te rzeczy, które wymieniłeś – ojej.~
+@500 = ~Och, ty też? Naprawdę dziwnie jest widzieć rzeczy, jakie ludzie noszą ze sobą, prawda? Ale chwileczkę, te rzeczy, które wymieniłeś – ojej.~
 @501 = ~[PC Reply]Imoen, czy widzisz coś w tym kamieniu?~ 
-@502 = ~[Imoen]Kamień jest zaklęty i sprawia, że wszyscy czują się źle, ale... ale nie sądzę, żebym mogła coś z tym zrobić... przepraszam? Gdybyśmy mieli oryginalną klątwę, wtedy moglibyśmy spróbować. Tak mi się przynajmniej wydaje.~
+@502 = ~[Imoen]Kamień jest zaklęty i sprawia, że wszyscy czują się źle, ale... ale nie sądzę, żebym mogła coś z tym zrobić... przepraszam? Gdybyśmy mieli pierwotną klątwę, wtedy moglibyśmy spróbować. Tak mi się przynajmniej wydaje.~
